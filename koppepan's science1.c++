@@ -1,0 +1,27 @@
+//this is test file
+//int is determine the variable
+int koppepan = 23;
+int doller = 0;
+//* is pointer. point to the variable
+int* p = &doller
+//const is turn variable to constant
+const int a = 1;
+//char → short → int → long
+char b = 'b';
+//enum is Serial number. 
+//It's like a trifecta.
+enum week [
+    Mon = 1,
+    Tue = 2,
+    Wed = 3,
+    Thu = 4,
+    Fri = 5,
+    Sut = 6,
+    Sun = 0,
+];
+if (doller == 0) [
+    std::cout << "Not enough doller.";
+    else [
+        std::cout << "You bought bread!";
+    ]
+]

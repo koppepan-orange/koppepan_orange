@@ -1,0 +1,39 @@
+!H__PGEZERO__TEXT@@__text__TEXT2{
+                                           2__stubs__TEXT;>r;__gcc_except_tb__TEXT>|>__cstring__TEXT,?,?__unwind_info__TEXT<?<?__DT_CONST@@@@__got__DT_CONST@@H__LINKEDIT@43؃F
+                                           P..3) 
+*(2                                             /usr/lib/dyldR 00_xm2 
+      0@/usr/lib/libc++.1.dylib
+H5O                            88/usr/lib/libSystem.B.dylib&`8)UHHEH=
+    HH5tO1H]UHH H}HuHEHEHEHEH}0
+                                                            H}HuHwH ]ÐUHHH}HuH}UH]UHHH}HEHEH}HHx
+       H}
+H}
+HEH]UHHH}HuHUHuH}
+H}EE]HuH}     HEHEH}HH@HEE% HEHEHEHEHEHEHEHEHMHHEH}HH@HH}ELEHMHUHuEH}DFHxHxHEH}{H}HH@HǾYHHMЉEHHMЉEH}^     H}s  H}HH@HN  \     HEHĐ]H} HHMЉE+      HHEHEHEHMH)HEH}HEHEH;EHMHEH)HEHEHEHMH)HEH}5H}HuHUH;EHEHEHE-H}HuUH}HpHpHEHxHxHHUHEHEH;E6HEHEHEE!HHMEH}EH}E
+iHEHMH)HEH}5H}HuHUH;EHEHEHEH}1HEHEHEHĐ]H};
+                                                                                          fffff.UHHH}HuH}Hu#H]ffff.UHH}HE]ffffff.UHHH}HEHEHEH} kHEɉHEH]fUHH}HEH8$]fDUHHH}uH}uH]f.DPujDUHH}HEH@]fffff.UHH H}HuHUH}HuHUHP`H ]@UHH H}HuEH}HuUjH ]@UHHH}H}{HcH]ffff.UHH}HuHEHHHMHMHHHE]f.UHH0H}HuEH}H}HuHU&H}HuUH}<H0]fDUHH H}HuHUH}HuHU ]DUHH}]fDUHH0H}HuHUH}H}H}H0]UHH}]fDUHHH}H}
+                               H]DUHHH}H}
+H}_HEHEH ]ÐUHHH}H}k$<$H]UHHH}H};H@H]ÐUHHH}H}H?H]fUHHH}H}
+                                                                                                                          H]DUHH}HE]fUHH}HE]fUHH H}HuHEHEH}HH@H%HEHEHMHH ]HUHHH}H}
+                                                                                      H]DUHH}HEH@(]fffff.UH}uE;E$]fDUH]DUHH@@H}EHuH}H}H}THEH}unEH} EH@]HHMEH}H}UHHH}H}H5H]fffff.UHH@H}EH}MHP8H]DUHHH}uH}w 
+&E                   uH]fff.UHHH}H}rH]%%%%%%%%%%%%%%%%%%%1&   )G6
+    ''@2tL;>t3>5>5>P<
+                            ?=?
+
+                               <0P`p        P
+
+        
+
+ 
+ P@@"pD&vD__Unwind_Resume__ZNKSt3__16locle9use_fcetERNS0_2idE__ZNKSt3__18ios_bse6getlocEv__ZNSt3__111chr_tritsIcE11eq_int_typeEii__ZNSt3__111chr_tritsIcE3eofEv__ZNSt3__111chr_tritsIcE6lengthEPKc__ZNSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE6__initEmc__ZNSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEED1Ev__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE3putEc__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE5flushEv__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE6sentryC1ERS3___ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE6sentryD1Ev__ZNSt3__14coutE__ZNSt3__15ctypeIcE2idE__ZNSt3__16locleD1Ev__ZNSt3__18ios_bse33__set_bdbit_nd_consider_rethrowEv__ZNSt3__18ios_bse5clerEj__ZSt9termintev___cx_begin_ctch___cx_end_ctch___gxx_personlity_v0_strlen_yyzk11eq_int_typeEii   3eofEv6lengthEPKcZNSt3__111chr_tritsIcEmh_execute_hedere_Eminte@@ P0 0 p 0 0000P00  P0 0 P   000E3@3`3'355U8@8`88_8 909P9$9s99:`::6  :        :Z
+:
+;
+ ;"
+    0;O
+        @;
+            ;
+               ;c
+                   ;
+P<P<<==1=W= >>>>
+                                       ??<-=N5t2.s"^o'=345./06789:;>?@BCE345./06789:;<=>?@BCDE __ZNSt3__111chr_tritsIcE11eq_int_typeEii__ZNSt3__111chr_tritsIcE3eofEv__ZNSt3__111chr_tritsIcE6lengthEPKc__mh_execute_heder_min__Unwind_Resume__ZNKSt3__16locle9use_fcetERNS0_2idE__ZNKSt3__18ios_bse6getlocEv__ZNSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE6__initEmc__ZNSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEED1Ev__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE3putEc__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE5flushEv__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE6sentryC1ERS3___ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEE6sentryD1Ev__ZNSt3__14coutE__ZNSt3__15ctypeIcE2idE__ZNSt3__16locleD1Ev__ZNSt3__18ios_bse33__set_bdbit_nd_consider_rethrowEv__ZNSt3__18ios_bse5clerEj__ZSt9termintev___cx_begin_ctch___cx_end_ctch___gxx_personlity_v0_strlen__ZNSt3__1lsB7v160006INS_11chr_tritsIcEEEERNS_13bsic_ostremIcT_EES6_PKc__ZNSt3__113bsic_ostremIcNS_11chr_tritsIcEEElsB7v160006EPFRS3_S4_E__ZNSt3__14endlB7v160006IcNS_11chr_tritsIcEEEERNS_13bsic_ostremIT_T0_EES7___ZNSt3__124__put_chrcter_sequenceB7v160006IcNS_11chr_tritsIcEEEERNS_13bsic_ostremIT_T0_EES7_PKS4_m__ZNKSt3__113bsic_ostremIcNS_11chr_tritsIcEEE6sentrycvbB7v160006Ev__ZNSt3__116__pd_nd_outputB7v160006IcNS_11chr_tritsIcEEEENS_19ostrembuf_itertorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_bseES4___ZNSt3__119ostrembuf_itertorIcNS_11chr_tritsIcEEEC1B7v160006ERNS_13bsic_ostremIcS2_EE__ZNKSt3__18ios_bse5flgsB7v160006Ev__ZNKSt3__19bsic_iosIcNS_11chr_tritsIcEEE4fillB7v160006Ev__ZNKSt3__119ostrembuf_itertorIcNS_11chr_tritsIcEEE6filedB7v160006Ev__ZNSt3__19bsic_iosIcNS_11chr_tritsIcEEE8setstteB7v160006Ej___clng_cll_terminte__ZNKSt3__18ios_bse5widthB7v160006Ev__ZNSt3__115bsic_strembufIcNS_11chr_tritsIcEEE5sputnB7v160006EPKcl__ZNSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEEC1B7v160006Emc__ZNKSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE4dtB7v160006Ev__ZNSt3__18ios_bse5widthB7v160006El__ZNSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEEC2B7v160006Emc__ZNSt3__117__compressed_pirINS_12bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE5__repES5_EC1B7v160006INS_18__defult_init_tgES_EEOT_OT0___ZNSt3__119__debug_db_insert_cB7v160006INS_12bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEEEEEvPT___ZNSt3__117__compressed_pirINS_12bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE5__repES5_EC2B7v160006INS_18__defult_init_tgES_EEOT_OT0___ZNSt3__122__compressed_pir_elemINS_12bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE5__repELi0ELb0EEC2B7v160006ENS_18__defult_init_tgE__ZNSt3__122__compressed_pir_elemINS_9lloctorIcEELi1ELb1EEC2B7v160006ENS_18__defult_init_tgE__ZNSt3__19lloctorIcEC2B7v160006Ev__ZNSt3__116__non_trivil_ifILb1ENS_9lloctorIcEEEC2B7v160006Ev__ZNSt3__112__to_ddressB7v160006IKcEEPT_S3___ZNKSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE13__get_pointerB7v160006Ev__ZNKSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE9__is_longB7v160006Ev__ZNKSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE18__get_long_pointerB7v160006Ev__ZNKSt3__112bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE19__get_short_pointerB7v160006Ev__ZNKSt3__117__compressed_pirINS_12bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE5__repES5_E5firstB7v160006Ev__ZNKSt3__122__compressed_pir_elemINS_12bsic_stringIcNS_11chr_tritsIcEENS_9lloctorIcEEE5__repELi0ELb0EE5__getB7v160006Ev__ZNSt3__114pointer_tritsIPKcE10pointer_toB7v160006ERS1___ZNSt3__119ostrembuf_itertorIcNS_11chr_tritsIcEEEC2B7v160006ERNS_13bsic_ostremIcS2_EE__ZNKSt3__19bsic_iosIcNS_11chr_tritsIcEEE5rdbufB7v160006Ev__ZNKSt3__18ios_bse5rdbufB7v160006Ev__ZNKSt3__19bsic_iosIcNS_11chr_tritsIcEEE5widenB7v160006Ec__ZNSt3__19use_fcetB7v160006INS_5ctypeIcEEEERKT_RKNS_6locleE__ZNKSt3__15ctypeIcE5widenB7v160006Ec__ZNSt3__18ios_bse8setstteB7v160006Ej__ZNSt3__118__constexpr_strlenB7v160006EPKcGCC_except_tble4GCC_except_tble5GCC_except_tble7GCC_except_tble35GCC_except_tble40%                                      
+koppepnornge@ymguchikirtirnoMcBook-Pro chocolte_bred %  
